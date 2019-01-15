@@ -5,6 +5,8 @@ Do you want random human-readable slugs?
 
 Usage;
 ````javascript
+var getSlug = require("random-readable-slug");
+
 getSlug(3).then(slug =>{
     console.log(slug); //output: estambre-un-detras
 });
