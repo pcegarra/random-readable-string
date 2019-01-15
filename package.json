@@ -1,6 +1,6 @@
 {
   "name": "random-readable-slug",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Do you want random human-readable slugs?",
   "main": "index.js",
   "scripts": {
