@@ -1,6 +1,6 @@
 {
   "name": "random-readable-slug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Do you want random human-readable slugs?",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pcegarra/coolname.git"
+    "url": "git+https://github.com/pcegarra/random-readable-string"
   },
   "keywords": [
     "slug",
@@ -18,7 +18,7 @@
   "author": "pcegarra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pcegarra/coolname/issues"
+    "url": "https://github.com/pcegarra/random-readable-string/issues"
   },
-  "homepage": "https://github.com/pcegarra/coolname#readme"
+  "homepage": "https://github.com/pcegarra/random-readable-string#readme"
 }
