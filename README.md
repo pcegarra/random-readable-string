@@ -14,7 +14,7 @@ getSlug(3).then(slug =>{
 });
 
 //spanish
-getSlug(4).then(slug =>{
+getSlug(4, "es").then(slug =>{
     console.log(slug);
     //output: escritores-programa-silaba-mayo
 });
