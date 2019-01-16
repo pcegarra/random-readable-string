@@ -5,7 +5,19 @@ Do you want random human-readable slugs?
 
 Usage;
 ````javascript
+var getSlug = require("random-readable-slug");
+
+//english
 getSlug(3).then(slug =>{
-    console.log(slug); //output: estambre-un-detras
+    console.log(slug);
+    //output: safe-professor-nerve
 });
+
+//spanish
+getSlug(4).then(slug =>{
+    console.log(slug);
+    //output: escritores-programa-silaba-mayo
+});
+
+
 ````
